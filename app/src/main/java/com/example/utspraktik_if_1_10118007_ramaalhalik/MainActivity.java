@@ -12,7 +12,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 import java.util.Calendar;
-
+//Tanggal : 5/Juni/2020
 //NIM : 10118007
 //Nama : Rama Al Halik
 //Kelas: IF1
