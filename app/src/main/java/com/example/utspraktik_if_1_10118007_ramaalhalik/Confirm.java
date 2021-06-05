@@ -9,7 +9,7 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
+//Tanggal : 5/Juni/2020
 //NIM : 10118007
 //Nama : Rama Al Halik
 //Kelas: IF1
